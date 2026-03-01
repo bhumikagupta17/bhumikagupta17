@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumika Gupta</h1>
 <h3 align="center">BTech IT '28 @ NIT Jalandhar | Aspiring Software Engineer</h3>
 <p align="center">
-  <b>Solving 150+ DSA in C++ | Building with Flutter & Web</b>
+  <b>Solving 175+ DSA in C++ | Building with Flutter & Web</b>
 </p>
 
 <p align="center"> 
@@ -16,7 +16,7 @@
 
 - 📂 I maintain a **[daily-learning-logs](https://github.com/bhumikagupta17/daily-learning-logs)** repository to track my consistency.
 - 🌱 I’m currently deep-diving into **Flutter & Frontend Development (JS/CSS/HTML)**.
-- 🧩 Solved **150+ problems** on LeetCode/GFG using **C++**.
+- 🧩 Solved **175+ problems** on LeetCode/GFG using **C++**.
 - 💬 Ask me about **DSA, App UI, or Web Fundamentals**.
 - 📫 Reach me at: **bhumika17gupta@gmail.com**
 
